@@ -4,7 +4,7 @@
 We are given a region with a polygonal y-monotonic subdivision. We want to specify which element of subdivision contains any point we choose (within the subdivision).
 
 ## Algorithm
-Metod of separators.
+Method of separators.
 
 ## How to use?
 
@@ -15,7 +15,7 @@ Metod of separators.
 <img width="592" alt="Zrzut ekranu 2024-01-4 o 20 19 56" src="https://github.com/mhytrek/GeometricAlgorithmsProject/assets/131200367/2d9cf071-883f-4d20-af84-421a1ddceca3">
 
 
-### 3. Chose your point
+### 3. Choose your point
 
 
 ### 4. Start algorithm
