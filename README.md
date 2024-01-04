@@ -9,9 +9,10 @@ Metod of separators.
 ## How to use?
 
 ### 1. Create polygon
-
+<img width="561" alt="Zrzut ekranu 2024-01-4 o 20 19 45" src="https://github.com/mhytrek/GeometricAlgorithmsProject/assets/131200367/9d0e261b-d90f-4f50-91e7-3a837b81ba73">
 
 ### 2. Add edges
+<img width="592" alt="Zrzut ekranu 2024-01-4 o 20 19 56" src="https://github.com/mhytrek/GeometricAlgorithmsProject/assets/131200367/2d9cf071-883f-4d20-af84-421a1ddceca3">
 
 
 ### 3. Chose your point
@@ -21,6 +22,7 @@ Metod of separators.
 
 
 ### 5. See results
+<img width="589" alt="Zrzut ekranu 2024-01-4 o 20 20 49" src="https://github.com/mhytrek/GeometricAlgorithmsProject/assets/131200367/f114139a-ae8a-49eb-9435-3466db6f5a42">
 
 
 
