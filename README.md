@@ -28,7 +28,7 @@ Metod of separators.
 Project made during Geometric Algorithms Course at AGH UST.
 
 ## Documentation
-Only in Polish: 
+Only in Polish: [Documentation](https://github.com/mhytrek/GeometricAlgorithmsProject/blob/main/Documentation.pdf)
 
 ## Authors: 
 [Kinga Bunkowska](https://github.com/KingaBunkowska) \
